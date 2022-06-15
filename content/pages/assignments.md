@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignment section lists the three problem sets and information regarding
+  the short paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,25 +29,25 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw1))
+Problem Set 1 ({{% resource_link b19a4bd1-7001-92e9-9c2b-fcd7a5b2eac4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw1sol))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Problem Set 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw2))
-{{< tdclose >}}
-{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw2sol))
+({{% resource_link b0fb2829-e72f-18c1-6f9d-0d73a0fe5c14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw3))
+Problem Set 2 ({{% resource_link 56632cff-fbc9-c600-25b1-27bb0af4cd0f "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link a1baa389-3219-f35e-fa8c-f805c6e1f00d "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ({{% resource_link f7e615d0-9eac-f40b-0396-431306f2d832 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
