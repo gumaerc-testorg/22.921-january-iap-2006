@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides information regarding the course structure,
+  textbooks, assignments and grading criteria of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6b4c5edf-2fe9-2bc1-36c4-3248ff318176
 ---
