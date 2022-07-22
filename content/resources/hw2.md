@@ -6,6 +6,7 @@ file: /courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw2.pdf
 uid: 56632cff-fbc9-c600-25b1-27bb0af4cd0f
 ---
 This resource is problem set 2 and it contains 5 problems on the topic of reactor operation at power.
-

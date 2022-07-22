@@ -5,6 +5,7 @@ file: /courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw2sol.pdf
 uid: a1baa389-3219-f35e-fa8c-f805c6e1f00d
 ---
 This resource is a solution to problem set 2.
-
