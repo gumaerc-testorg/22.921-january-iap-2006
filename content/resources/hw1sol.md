@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a solution to problem set 1.
-file: /courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/b0fb2829e72f18c16f9d0d73a0fe5c14_hw1sol.pdf
+file: /ol-ocw-studio-app/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/b0fb2829e72f18c16f9d0d73a0fe5c14_hw1sol.pdf
 file_size: 94984
 file_type: application/pdf
 learning_resource_types:
