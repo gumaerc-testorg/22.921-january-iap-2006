@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the considerations in the design
   and implementation of control laws for the digital operation of research reactors.
-file: /ol-ocw-studio-app/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/f258abb2b01f086c28a901c579b0e1c5_3_paper92.pdf
+file: /courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/f258abb2b01f086c28a901c579b0e1c5_3_paper92.pdf
 file_size: 5492204
 file_type: application/pdf
 learning_resource_types:
