@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is problem set 2 and it contains 5 problems on the topic
   of reactor operation at power.
-file: /ol-ocw-studio-app/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/56632cfffbc9c60025b127bb0af4cd0f_hw2.pdf
+file: /courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/56632cfffbc9c60025b127bb0af4cd0f_hw2.pdf
 file_size: 114115
 file_type: application/pdf
 learning_resource_types:
